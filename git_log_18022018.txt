@@ -1,0 +1,17 @@
+commit 42cfbdb4761c58e60e438db34d92afc2f713a403
+Author: AdamElvin <adamelvin24@ymail.com>
+Date:   Sun Feb 18 15:26:32 2018 +0000
+
+    added gitignore
+
+commit 35f8b861668b7204ffd32798a9d4555370a7d694
+Author: AdamElvin <adamelvin24@ymail.com>
+Date:   Sun Feb 18 15:17:00 2018 +0000
+
+    add two files
+
+commit 9b636a8e30c8ead92a547601221ec841a161204b
+Author: AdamElvin <adamelvin24@ymail.com>
+Date:   Sun Feb 18 15:04:02 2018 +0000
+
+    added readme.txt
