@@ -1,19 +1,21 @@
-# This is a large heading
+# Adam Elvin 
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+Hello
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Two of my favorite books are;
+
+- *book1* by author 1
+- *book2* by author 2
+- *book3* by author 3
+
+Last night I ate;
+1. Beef
+2. Chicken
+3. Fish
 
 Here is `some code` in the middle of a sentence.
 
@@ -23,6 +25,6 @@ a block
 of code
 ```
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Here is wikipedia  [a link](https://www.wikipedia.org/).
 
 ![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
